@@ -1,4 +1,3 @@
-
 #ifndef STRINGTOKENIZER_H
 #define STRINGTOKENIZER_H
 
